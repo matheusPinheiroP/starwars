@@ -1,0 +1,14 @@
+.header {
+  max-width: 700px;
+  margin: 250px auto 0;
+  padding: 0 20px;
+}
+
+.header h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
